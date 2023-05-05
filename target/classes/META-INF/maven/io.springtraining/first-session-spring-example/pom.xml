@@ -14,8 +14,11 @@
 	<name>first-session-spring-example</name>
 	<description>Demo project for Spring Boot API Training</description>
 	<properties>
-		<java.version>20</java.version>
+		<!--	NOTE: Change this to a java major version available in your runtime-->
+<!--		<java.version>20</java.version>-->
+		<java.version>17</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
