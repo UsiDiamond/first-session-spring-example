@@ -1,5 +1,15 @@
 # First Session Code Example
 
+## Notes on Java
+If you're new to Java, haven't done it in a while and need a refresher, and absorb things well by reading, I'd suggest the official Oracle tutorials as they're quite good, but one of the others may more suit your style.
+
+- [Official Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/)
+- [Geek 4 Geeks Java Tutorial](https://www.geeksforgeeks.org/java/)
+- [Java “Back to Basics” Tutorial](https://www.baeldung.com/java-tutorial)
+- [W3Schools Java Tutorial](https://www.w3schools.com/java/) (Comes with a web based IDE to run your changes to the example code!)
+
+There are many introductory Java materials on youtube if you prefer videos.
+
 ## Tools to install:
 
 - [JDK 20](https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe) (Any version of Java 11+ will do for our purposes. This is a Java 20 direct link to an installer. Please remember where you install it as that will be important later.)
