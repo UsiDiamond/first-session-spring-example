@@ -1,6 +1,14 @@
 # First Session Code Example
 
-Covered in Session
+## Tools to install:
+
+- [JDK 20](https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe) (Any version of Java 11+ will do for our purposes. This is a Java 20 direct link to an installer. Please remember where you install it as that will be important later.)
+- [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/indigo/r/eclipse-ide-java-developers)
+- [Maven](https://phoenixnap.com/kb/install-maven-windows)
+
+## Session Notes:
+
+### Covered in Session 1
 
 1. Installing Java
    Links to options available in #notes-resources channel in discord and also in the Study Room 1 chat.
