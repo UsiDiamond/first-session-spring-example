@@ -1,6 +1,7 @@
 # Java API Training for Queers
 
 ## Notes on Java
+
 If you're new to Java, haven't done it in a while and need a refresher, and absorb things well by reading, I'd suggest the official Oracle tutorials as they're quite good, but one of the others may more suit your style.
 
 - [Official Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/)
