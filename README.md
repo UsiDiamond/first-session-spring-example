@@ -1,7 +1,5 @@
 # First Session Code Example
 
-<<<<<<< HEAD
-
 Covered in Session
 1. Installing Java
  Links to options available in #notes-resources channel in discord and also in the Study Room 1 chat.
