@@ -1,12 +1,6 @@
-# Read Me First
-
-The following was discovered as part of building this project:
-
-- The original package name 'io.springtraining.first-session-spring-example' is invalid and this project uses 'io.springtraining.firstsessionspringexample' instead.
-
 # Getting Started
 
-### Reference Documentation
+## Reference Documentation
 
 For further reference, please consider the following sections:
 
@@ -17,7 +11,7 @@ For further reference, please consider the following sections:
 - [Spring Reactive Web](https://docs.spring.io/spring-boot/docs/3.0.5/reference/htmlsingle/#web.reactive)
 - [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/3.0.5/reference/htmlsingle/#actuator)
 
-### Guides
+## Guides
 
 The following guides illustrate how to use some features concretely:
 
