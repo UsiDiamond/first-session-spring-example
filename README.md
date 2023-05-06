@@ -1,22 +1,5 @@
 # First Session Code Example
 
-Covered in Session
-1. Installing Java
- Links to options available in #notes-resources channel in discord and also in the Study Room 1 chat.
-  note: Some people chose 17 and some chose 20. so note the config change in the pom.xml java.version property attribute value.
-	Java 17
-	```
-	<properties>
-		<java.version>17</java.version>
-	</properties>
-	```	
-	Java 20
-	```
-	<properties>
-		<java.version>20</java.version>
-	</properties>
-	```
-=======
 ## Notes on Java
 If you're new to Java, haven't done it in a while and need a refresher, and absorb things well by reading, I'd suggest the official Oracle tutorials as they're quite good, but one of the others may more suit your style.
 
@@ -60,14 +43,7 @@ There are many introductory Java materials on youtube if you prefer videos.
 6. Installed Eclipse
 7. Created a workspace folder independent of the code
 8. Imported the Maven project as a Maven project in Eclipse
-<<<<<<< HEAD
-7. Installed Spring Tools 4 add-on from the Eclipse Marketplace under Help
-8. Created a Spring Tools Runtime By starting as a Spring API app with the provided default spring tools runtime.
-9. Adjusted JDK runtime at workspace setup explicitly by directory
-10.Ran the Spring API we downloaded in Eclipse via the IDE 'Run As' => 'Spring Boot App Option' and stop it with the IDE provided red button on the console top right of the console window.
-=======
 9. Installed Spring Tools 4 add-on from the Eclipse Marketplace under Help
 10. Created a Spring Tools Runtime By starting as a Spring API app with the provided default spring tools runtime.
 11. Adjusted JDK runtime at workspace setup explicitly by directory
     10.Ran the Spring API we downloaded in Eclipse via the IDE 'Run As' => 'Spring Boot App Option' and stop it with the IDE provided red button on the console top right of the console window.
->>>>>>> 6c222e8ed0ddbfbde38aafff616fe7054c53e4a0
