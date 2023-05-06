@@ -35,7 +35,6 @@ There are many introductory Java materials on youtube if you prefer videos.
    	<java.version>20</java.version>
    </properties>
    ```
->>>>>>> 6c222e8ed0ddbfbde38aafff616fe7054c53e4a0
 2. Downloading latest Maven Binaries and add them to the system CLASSPATH
 3. Links in discord Study Room 1 Chat
 4. Run a 'clean' Maven build with 'mvn clean'
