@@ -1,4 +1,4 @@
-# Java API Training for Queers
+# Java API Training for Queers [![Java CI with Maven](https://github.com/usiiasirrush/first-session-spring-example/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/usiiasirrush/first-session-spring-example/actions/workflows/maven.yml)
 
 ## Notes on Java
 
