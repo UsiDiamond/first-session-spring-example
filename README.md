@@ -47,3 +47,13 @@ There are many introductory Java materials on youtube if you prefer videos.
 10. Created a Spring Tools Runtime By starting as a Spring API app with the provided default spring tools runtime.
 11. Adjusted JDK runtime at workspace setup explicitly by directory
     10.Ran the Spring API we downloaded in Eclipse via the IDE 'Run As' => 'Spring Boot App Option' and stop it with the IDE provided red button on the console top right of the console window.
+
+## HTTPS
+User these commands to generate a server.p12 file to use as a certificate and place it in `src/main/resources`
+
+```openssl x509 -inform DER -in server.crt -outform PEM -out cert.pem```
+
+```openssl pkcs12 -export -in myhost.crt -inkey myhost.key -out myhost.p12```
+
+
+Use the password "temp" or change in application.properties.
