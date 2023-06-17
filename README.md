@@ -48,6 +48,12 @@ There are many introductory Java materials on youtube if you prefer videos.
 11. Adjusted JDK runtime at workspace setup explicitly by directory
     10.Ran the Spring API we downloaded in Eclipse via the IDE 'Run As' => 'Spring Boot App Option' and stop it with the IDE provided red button on the console top right of the console window.
 
+## Docker
+User these commands to build and run the docker container
+```docker build -f DOCKERFILE --build-arg JAR_FILE=target/*.jar -t myorg/myapp .```
+
+``` ```
+
 ## HTTPS
 User these commands to generate a server.p12 file to use as a certificate and place it in `src/main/resources`
 
